@@ -12,7 +12,7 @@ Efficiency - it helps optimize developer workflow while maintaining high-quality
  Scalability and flexibility - This ensures the system can handle an increased load without affecting performance.
  security - implement protection practice like authentication, authorization and encryption to secure users information.
  
- Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering.
 
 mastering complexity
 As software systems grew more complex, early software engineers struggled with "spaghetti code"—unstructured and difficult-to-maintain programs. The structured programming paradigm emerged to address this:
@@ -83,8 +83,8 @@ An IDE can format the written text by automatically making some words bold or it
 An IDE can suggest completing a code statement when the developer begins typing.
 IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. An IDE carries out The following examples of regular coding tasks.
 An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
-The IDE allows developers to automate unit tests locally before integrating the software with other developers' code and more complex integration tests are run.
-Debugging IDE enables a step through the code, line by line, as it runs and inspects code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real-time, even as the developer is typing.
+The IDE allows developers to automate unit tests locally before integrating the software with other developers' code and running more complex integration tests.
+A debugging IDE enables the developer to step through the code, line by line, as it runs and inspects code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
 
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
 importance:
