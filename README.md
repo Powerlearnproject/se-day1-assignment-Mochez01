@@ -84,7 +84,7 @@ An IDE can suggest completing a code statement when the developer begins typing.
 IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. An IDE carries out The following examples of regular coding tasks.
 An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
 The IDE allows developers to automate unit tests locally before integrating the software with other developers' code and running more complex integration tests.
-A debugging IDE enables the developer to step through the code, line by line, as it runs and inspects code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
+A debugging IDE enables the developer to inspect code behavior as it runs by stepping through the code line by line. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
 
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
 importance:
