@@ -14,6 +14,7 @@ Efficiency - it helps optimize developer workflow while maintaining high-quality
  
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+
 mastering complexity
 As software systems grew more complex, early software engineers struggled with "spaghetti code"—unstructured and difficult-to-maintain programs. The structured programming paradigm emerged to address this:
 Key Development: Edsger Dijkstra introduced structured programming principles and advocated for the elimination of the "goto" statement.
